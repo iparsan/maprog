@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Logo original de Maprog: montañas con una ruta discontinua y un punto de destino -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#A5D6A7"
+        android:pathData="M22,74 L44,42 L56,58 L66,46 L86,74 Z" />
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M44,42 L50,51 L46,50 L42,54 L39,49 Z" />
+    <path android:strokeColor="#FFEB3B" android:strokeWidth="3"
+        android:strokeLineCap="round" android:fillColor="#00000000"
+        android:pathData="M28,80 C40,72 50,82 62,72 S76,62 80,56" />
+    <path android:fillColor="#FF7043"
+        android:pathData="M80,36 C74,36 70,40.5 70,46 C70,53 80,62 80,62 C80,62 90,53 90,46 C90,40.5 86,36 80,36 Z" />
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M80,42 A4,4 0 1,1 79.99,42 Z" />
+</vector>
